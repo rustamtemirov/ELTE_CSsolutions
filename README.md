@@ -1,3 +1,3 @@
 # ELTE_CSsolutions
-This repository contains solved university coding callenges
+This repository contains solved tasks from university coding callenges
 
